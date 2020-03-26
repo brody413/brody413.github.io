@@ -1,0 +1,42 @@
+// JSON File For Strange Things to Buy
+
+{
+  "differentItems" : [
+
+  {
+    "name" : "Tiny Home",
+    "Price" : 36000,
+    "details" : "40ft Home Built in a Shipping Container",
+    "image" : "home.png"
+  },
+
+  {
+    "name" : "Lady Bugs",
+    "Price" : 3.05,
+    "details" : "A Bag Of 1500 Live Lady Bugs",
+    "image" : "ladybug.png"
+  },
+
+  {
+    "name" : "Mushroom Farm",
+    "Price" : 22.85,
+    "details" : "Everything you Need to Build a Home Mush Farm",
+    "image" : "mushFarm.png"
+  },
+
+  {
+    "name" : "Uranium Ore",
+    "Price" : 39.95,
+    "details" : "Just Your Average Bit of Uranium",
+    "image" : "ore.png"
+  },
+
+  {
+    "name" : "Tissue Holder",
+    "Price" : 34.95,
+    "details" : "It's a Cat With Tissues Coming Out of It's Butt",
+    "image" : "cat.png"
+  }
+  
+  ]
+}
